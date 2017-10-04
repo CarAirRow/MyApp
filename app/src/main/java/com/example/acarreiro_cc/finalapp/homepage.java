@@ -14,12 +14,13 @@ public class homepage extends AppCompatActivity implements View.OnClickListener 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContesntView(R.layout.activity_homepage);
+        setContentView(R.layout.activity_homepage);
 
         logOutButton =  (Button)  findViewById(R.id.logOutButton);
 
         logOutButton.setOnClickListener(this);
     }
+
 
     public void onClick(View v) {
         AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
