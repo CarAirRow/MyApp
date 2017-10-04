@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+
+    <string name="user_name_label">User Name:</string>
+    <string name="usernameText"></string>
+
+    <string name="password_label">Password:</string>
+    <string name="passStringLabel"></string>
+
+    <string name="signUp">Sign Up!</string>
+
+    <string name="login">Login!</string>
+
+    <string name="email_label">Email:</string>
+
+    <string name="fullName_label">Full Name:</string>
+    <string name="title_activity_homepage">homepage</string>
+
+    <string name="userEnter_label">Alex Carreiro</string>
+
+    <string name="logOut">Log Out!</string>
+
+</resources>
